@@ -1,0 +1,17 @@
+.botao {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: rgb(49, 67, 84);
+  border: solid rgb(40, 58, 75);
+}
+.botao:hover{
+  color: rgb(226, 236, 244);
+  background-color: rgb(43, 59, 74);
+  border: solid rgb(33, 49, 63);
+}
+.botao:active{
+  color: rgb(208, 217, 225);
+  background-color: rgb(37, 50, 63);
+  border: solid rgb(27, 40, 52);
+}
